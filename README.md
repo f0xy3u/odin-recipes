@@ -1,2 +1,2 @@
 # odin-recipes
-Hi. This is my project for The Odin Project, where i have to proof, that i can work with HTML and that i know how to make simple website. At this moment, i should be able to use HTML and create website. The project task is to make basic recipe website.
+Hi. This is my project for The Odin Project, where i have to proof, that i can work with HTML and that i know how to make simple website. At this moment, i should be able to use HTML and create website. The project task is to make basic recipe website. The result you can see here.
