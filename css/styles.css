@@ -1,0 +1,36 @@
+body {
+    font-family: 'HK Grotesk', Arial, sans-serif;
+    background-color: rgb(39, 39, 39);
+}
+
+
+/*For whole site*/
+#title {
+    color: wheat;
+}
+
+.text {
+    font-size: 22px;
+    color: rgb(194, 194, 194);
+
+}
+
+.img {
+    width: 200px;
+    height: auto;
+}
+/*index.html*/
+
+/* end of index.html*/
+/*lasagna*/
+
+/*end of lasagna*/
+/*porkchop*/
+
+/*end of porkchop*/
+/*roastedchicken*/
+
+/*end of roastedchicken*/
+/*spaghetti*/
+
+/*end of spaghetti*/
