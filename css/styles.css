@@ -1,17 +1,22 @@
 body {
     font-family: 'HK Grotesk', Arial, sans-serif;
     background-color: rgb(39, 39, 39);
+    color: rgb(170, 170, 170);
 }
 
 
 /*For whole site*/
+p {
+    font-size: 14px;
+}
+
 #title {
     color: wheat;
 }
 
 .text {
     font-size: 22px;
-    color: rgb(194, 194, 194);
+    color: rgb(170, 170, 170);
 
 }
 
@@ -19,18 +24,30 @@ body {
     width: 200px;
     height: auto;
 }
-/*index.html*/
 
-/* end of index.html*/
-/*lasagna*/
+.scnd {
+    font-family: sans-serif, Arial, Helvetica;
+    color: rgb(235, 235, 235);
+}
 
-/*end of lasagna*/
-/*porkchop*/
+.thrd {
+    font-family: sans-serif, Arial, Helvetica;
+    color: rgb(200, 200, 200);
+}
 
-/*end of porkchop*/
-/*roastedchicken*/
+.step {
+    font-weight: bold;
+    font-size: 16px;
+}
 
-/*end of roastedchicken*/
-/*spaghetti*/
+.addon-info {
+    font-size: 12px;
+    background-color: rgb(66, 66, 66);
+    color: rgb(218, 218, 218);
+}
 
-/*end of spaghetti*/
+.button-main {
+    background-color: rgb(66, 66, 66);
+    color: rgb(218, 218, 218);
+    font-size: 18px;
+}
