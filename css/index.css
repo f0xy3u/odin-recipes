@@ -1,0 +1,13 @@
+#index {
+    display: flex;
+}
+
+#index p {
+    flex:1;
+    padding: 5px;
+    margin: 5px;
+}
+
+#title {
+    text-align: center;
+}
