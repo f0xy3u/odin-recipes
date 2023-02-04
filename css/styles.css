@@ -4,14 +4,20 @@ body {
     color: rgb(170, 170, 170);
 }
 
-
+/*For index.html*/
+#index{
+    display:flex;
+    flex: auto;
+}
 /*For whole site*/
+
 p {
     font-size: 14px;
 }
 
 #title {
     color: wheat;
+    text-align: center;
 }
 
 .text {
@@ -41,13 +47,17 @@ p {
 }
 
 .addon-info {
-    font-size: 12px;
+    font-size: 15px;
     background-color: rgb(66, 66, 66);
     color: rgb(218, 218, 218);
+    margin: 20px;
+    padding: 6px;
 }
 
 .button-main {
     background-color: rgb(66, 66, 66);
     color: rgb(218, 218, 218);
     font-size: 18px;
+    margin: 20px;
+    text-align: center;
 }
